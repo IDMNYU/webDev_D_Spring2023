@@ -14,7 +14,7 @@ Email: rebleo [at] nyu.edu | office hours by appointmnet. Schedule at least 24 h
 #### Course Pe-requisites:
 Basic computer knowledge. Familiarity with programming is preferred but not required.
 
-#### [Course Schedule](schedule.md) and [Course wiki](wiki)
+#### [Course Schedule](schedule.md) and [Course wiki](https://github.com/IDMNYU/webDev_D_Spring2023/wiki)
 
 
 #### Course Description:
@@ -38,11 +38,11 @@ Students will:
 
 #### Student Learning Outcomes:
 By the end of the course, students will be able to:
-0. Become comfortable with discomfort by proactively learning - querying the web to research open source tools + documentation
-1. Practice effective digital hygeine including navigating file system file paths
-2. Design, build, and develop assets for a professional quality front end websites
-3. Use the Github workflow while using Github Pages to publish and maintain sites
-4. Feel comfortable participating in discussions, presenting reserach and work to the class using the HDMI connection, collaborate successfully on code projects, learn skills to create their own developer / creative communities
+1. Become comfortable with discomfort by proactively learning - querying the web to research open source tools + documentation
+2. Practice effective digital hygeine including navigating system file paths
+3. Design, build, and develop assets for a professional quality front end websites
+4. Use the Github workflow while using Github Pages to publish and maintain sites
+5. Feel comfortable participating in discussions, presenting research and work to the class using the HDMI connection, collaborate successfully on code projects, learn skills to create their own developer / creative communities
 
 #### Course Structure:
 Class time will be spent as a combination of lecture, discussion, in class exercises, critique, user testing + student presentations. Homework will consist of weekly projects that ask students to
@@ -58,10 +58,10 @@ respond to readings, thinking critically about the cultural implications of netw
 #### Research + Resources:
 All materials for this class are open source + can be accessed via this repository and the wiki. Regular updates to the class repo will contain links to starter code gone over during class as well as links to further technical reading. Pick and choose what is of most interest to you - the repo is a jumping off point for your own research + you can always return back to a week to catch up on missed material. Additionally, students will be responsible for citing + discussing their research methods and discoveries with the class.  
 
-* For the majority of the semester students are required to use a grainular tool kit outlined in class. This means no libraries and leaning on documentation rather than existing code or stack overflow. 
+* For the majority of the semester students are required to use a grainular tool kit outlined in class. This means leaning on documentation rather than pre-existing code or libraries. 
 
 * Required Text: 
-The web is a vast trove of thirty plus years worth of folks thinking they have the answer to yr coding questions. Do not belive everyone you read, nor trust that a code snippet is the be-all solution to yr project. For that reason [Mozilla Developer Network](https://developer.mozilla.org/en-US/) is the "textbook" for this class and should be your primary resource. 
+The web is a vast trove of thirty plus years worth of folks thinking they have the answer to yr coding questions. Do not belive everyone you read, nor trust that a code snippet is the be-all solution to yr project. For that reason **[Mozilla Developer Network](https://developer.mozilla.org/en-US/) is the "textbook" for this class and should be your primary resource**. 
 
 * Open Source vs. Plagerism:
 Plagerism is strictly forbidden. If you intend to implement some one else's code you must **cite your sources**. That said, much of learning web dev from the grainular level is how you use the tools to put your puzzle together. This means what you chose to build a project about or for (the word content) become integral to its originality and your technical development. We'll discuss this more throughout the semester. 
@@ -81,6 +81,7 @@ Weekly Design + Technical Exercises + Class Site + Presentations (50% of grade):
 Students will be expected to maintain their sites, designing reading reflections on a website built for + during class using [Github pages](https://pages.github.com/). We will build this site together incrementally during the first few weeks, following assignments + projects are to be added + linked to throughout the semester. **Using Github Pages to publish is mandatory.**
 
 Pair Programming net.art presentation (10% of grade)
+
 Final Project (20% of grade)
 
 Class will culminate with final projects. It is expected that these will be both technical, aesthetic and concept driven. The final project will be built over the course of several weeks. 

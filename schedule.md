@@ -1,5 +1,4 @@
-##### This is not a living document - the [course wiki](https://github.com/IDMNYU/webDev_D_Spring2023/wiki) is the best place for up-to-date schedule info.
-###### last updated: January 23, 2023
+##### This is not a living document - the [course wiki](https://github.com/IDMNYU/webDev_D_Spring2023/wiki) is the best place for up-to-date schedule info. last updated: January 23, 2023
 
 ### ⌖ Part 1 - Introduction to Web Dev ⌖
 #### Week 1 - [Introductions](https://github.com/IDMNYU/webDev_D_Spring2023/wiki/Week-01) 
