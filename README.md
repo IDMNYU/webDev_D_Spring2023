@@ -3,7 +3,7 @@
 ```
 💻 Intro to Web Development - Spring 2023
 DM-UY 2193 Section D | January 24 - May 08
-Tuesday + Thursday | 8:00 - 9:50 am | IDM - Room 308
+Tuesday + Thursday | 8:00 - 9:50 am | IDM - Room 309
 ```
 ***
 ```
