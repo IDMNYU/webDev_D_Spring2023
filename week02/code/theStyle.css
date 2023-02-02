@@ -1,0 +1,25 @@
+body {
+    background-color: pink;
+}
+
+main {
+    background-color: green;
+}
+
+div {
+    background-color: rgb(0, 255, 0);
+    margin: 5vw;
+}
+#theSpecial {
+    background-color: yellow;
+    padding: 5vw;
+    margin: 5vw;
+    border: dashed 5px red;
+}
+
+.theNorm {
+    background-color: blue;
+    margin: 50px;
+    padding: 30px;
+    border: solid 5px black;
+}
