@@ -6,17 +6,22 @@ p {
     padding: 4vw;
     background-color: green;
     margin: 40px;
-    border: dashed 10px pink;
+    border: solid 10px pink;
+   
 }
+
+p img{
+    width: 500px;
+}
+
 img {
     display: block;
- 
     background-color: orange;
     margin-left:    auto;
     margin-right: auto;
 }
 img:hover{
-    display: none;
+    /* display: none; */
 }
 
 div {
@@ -26,9 +31,9 @@ div {
     font-size: 100px;
 }
 
-#theImage:hover{
-    display: none;
-
+footer {
+    background-color: yellow;
+    display: flex;
 }
 
 details {
@@ -41,5 +46,5 @@ details {
     color: white;
     width: 100px;
     /* https://developer.mozilla.org/en-US/docs/Web/CSS/z-index */
-    z-index: 7;
+
 }
