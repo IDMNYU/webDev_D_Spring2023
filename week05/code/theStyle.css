@@ -1,0 +1,32 @@
+body {
+    background-color: green;
+}
+
+main {
+    border: solid 10px pink;
+    display: flex;
+    justify-content: flex-end;
+    justify-content: space-around;
+
+
+}
+
+
+p {
+    background-color: yellow;
+    padding: 3vw;
+
+  
+}
+
+footer {
+    display: grid;
+    margin: 3vw;
+    background-color: white;
+    grid-template-columns: 1fr 1fr 1fr;
+}
+
+footer p {
+    background-color: blue;
+    margin: 2px;
+}
