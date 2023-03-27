@@ -17,7 +17,7 @@ With a partner, choose 1 artwork from either the [Rhizome's net.art Anthology](h
 Research which artwork you would like to present. Discuss with your partner and once you decide post a link to the work by your names [here](https://github.com/IDMNYU/webDev_A_Spring2023/wiki/Week-06#netart-projects). **You can not do an artwork that has been posted by another pair!!** 
 
 
-#### Assignment for Wesd
+#### Assignment for Tuesday
 Spend time with the work together and talk about the expirence of looking at it. Make notes - this conversation will lead to your talking points in the presentation. Take screen shots and/or recordings of yourself interacting with the work. If you each have a different experience of the piece - great! Show us and talk about the differences. Not simply "i liked it, s/he didn't" but actually what you each materially experienced on your different screens. 
 
 We will not meet formally on Wednesday. Use the time to work on your proejct with your partner. You can use the classroom if you like or somewhere on the third floor.
