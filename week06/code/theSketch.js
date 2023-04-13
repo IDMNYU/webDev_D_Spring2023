@@ -1,8 +1,9 @@
 console.log("hello javascript!")
 
+let theCanvas;
 function setup(){
     //runs once 
-    createCanvas(windowWidth, windowHeight);
+    theCanvas =createCanvas(windowWidth, windowHeight);
     background(0, 100, 0)
 }
 
